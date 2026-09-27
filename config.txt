@@ -1,0 +1,4 @@
+# KAWI Gateway — edit URLs only, no rebuild required
+COMPANY_PROFILE=https://karyawijaya.com/
+MINING_APP=https://apps.kawi-nickel.com/login
+ERP_APP=https://kawi.meinova.id/
